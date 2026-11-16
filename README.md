@@ -72,7 +72,7 @@ Power BI · Power Query · DAX · Modelamiento dimensional · Visualización de 
 └── (archivo .pbix y datos, si se publican)
 ```
 
-**[Ver informe completo (PDF)](docs/Informe_OEE.pdf)**
+**[Ver informe completo (PDF)](docs/Proyecto_OEE.pdf)**
 
 ## Notas
 
