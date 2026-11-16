@@ -41,7 +41,7 @@ Las paradas de línea se registraban con detalle, pero sin relacionarlas con la 
 
 | Análisis de paradas | Impacto de la mejora |
 |---|---|
-|**(img/Proyecto_OEE_page-0001.jpg)** **(img/Proyecto_OEE_page-0002.jpg)** |**(img/Proyecto_OEE_page-0003.jpg)**|
+|**[Proyecto_OEE_page-0001)](img/Proyecto_OEE_page-0001.jpg)** **[Proyecto_OEE_page-0002](img/Proyecto_OEE_page-0002.jpg)** |**[Proyecto_OEE_page-0003](img/Proyecto_OEE_page-0003.jpg)**|
 
 ## Solución técnica
 
