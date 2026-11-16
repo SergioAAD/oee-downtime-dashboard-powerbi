@@ -4,7 +4,7 @@ Español | [English](README.en.md)
 
 Dashboard en **Power BI** que mide el OEE de una planta embotelladora con sus tres componentes (disponibilidad, rendimiento y calidad), identifica las paradas de mayor impacto hasta el nivel de subcausa y equipo, y cuantifica el efecto de las acciones de mejora.
 
-![Desempeño operativo](img/desempeno_operativo.jpg)
+![Desempeño operativo]
 
 ## Problema de negocio
 
@@ -42,7 +42,7 @@ Las paradas de línea se registraban con detalle, pero sin relacionarlas con la 
 
 | Análisis de paradas | Impacto de la mejora |
 |---|---|
-| ![Análisis de paradas](img/analisis_paradas.jpg) | ![Impacto de la mejora](img/impacto_mejora.jpg) |
+| ![Análisis de paradas]
 
 ## Solución técnica
 
@@ -51,7 +51,7 @@ Las paradas de línea se registraban con detalle, pero sin relacionarlas con la 
 - **Power Query** para tipificar datos y separar fecha y hora de cada parada.
 - **Datos:** 3,285 registros de producción y 7,821 paradas de 3 líneas y 3 turnos (año 2025).
 
-![Modelo de datos](img/modelo_datos.jpg)
+![Modelo de datos]
 
 ```DAX
 OEE = [Disponibilidad] * [Rendimiento] * [Calidad]
